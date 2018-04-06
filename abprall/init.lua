@@ -1,5 +1,5 @@
 --init.lua
-wf = 'lib/windfield/windfield'
+wf = require('lib/windfield/windfield')
 
 local ap = {}
 
