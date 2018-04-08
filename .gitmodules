@@ -4,3 +4,6 @@
 [submodule "abprall/lib/catui"]
 	path = abprall/lib/catui
 	url = https://github.com/wilhantian/catui
+[submodule "abprall/lib/SaveData"]
+	path = abprall/lib/SaveData
+	url = https://github.com/BroccolliRaab/SaveData
