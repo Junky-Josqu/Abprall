@@ -7,3 +7,6 @@
 [submodule "abprall/lib/SaveData"]
 	path = abprall/lib/SaveData
 	url = https://github.com/BroccolliRaab/SaveData
+[submodule "abprall/lib/CScreen"]
+	path = abprall/lib/CScreen
+	url = https://github.com/CodeNMore/CScreen
