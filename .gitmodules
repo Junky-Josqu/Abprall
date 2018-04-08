@@ -1,3 +1,6 @@
 [submodule "abprall/lib/windfield"]
 	path = abprall/lib/windfield
 	url = https://github.com/SSYGEN/windfield
+[submodule "abprall/lib/catui"]
+	path = abprall/lib/catui
+	url = https://github.com/wilhantian/catui
