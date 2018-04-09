@@ -7,3 +7,6 @@
 [submodule "abprall/lib/CScreen"]
 	path = abprall/lib/CScreen
 	url = https://github.com/CodeNMore/CScreen
+[submodule "abprall/lib/Gspot"]
+	path = abprall/lib/Gspot
+	url = https://github.com/Junky-Josqu/Gspot
