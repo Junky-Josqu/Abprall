@@ -1,7 +1,8 @@
 --init.lua
 local wf = require('abprall.lib.windfield.windfield')
 local CScreen = require ("abprall.lib.CScreen.cscreen")
-local SaveData = require('abprall.lib.SaveData')
+local SaveData = require('abprall.lib.SaveData.saveData')
+local suit = require('abprall.lib.SUIT')
 
 local ap = {}
 function ap.load()
