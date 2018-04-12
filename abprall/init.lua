@@ -1,6 +1,5 @@
 --init.lua
 local wf = require('abprall.lib.windfield.windfield')
-require('abprall.lib.catui.init')
 local gui = require('abprall.lib.Gspot')
 local CScreen = require ("abprall.lib.CScreen.cscreen")
 local SaveData = require('abprall.lib.SaveData')
