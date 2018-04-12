@@ -1,6 +1,3 @@
-[submodule "abprall/lib/windfield"]
-	path = abprall/lib/windfield
-	url = https://github.com/SSYGEN/windfield
 [submodule "abprall/lib/SaveData"]
 	path = abprall/lib/SaveData
 	url = https://github.com/BroccolliRaab/SaveData
@@ -10,3 +7,6 @@
 [submodule "abprall/lib/SUIT"]
 	path = abprall/lib/SUIT
 	url = https://github.com/vrld/SUIT
+[submodule "abprall/lib/windfield"]
+	path = abprall/lib/windfield
+	url = https://github.com/SSYGEN/windfield
