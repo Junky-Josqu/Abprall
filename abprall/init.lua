@@ -10,18 +10,31 @@ function ap.load()
 end
 
 function ap.update()
-  
+
 end
 
 function ap.draw()
 	CScreen.apply()
-
+    suit.draw()
   CScreen.cease()
 end
 
 
 function love.resize(width, height)
 	CScreen.update(width, height)
+end
+
+-- Callbacks: 
+function love.textedited(text, start, length)
+    suit.textedited(text, start, length)
+end
+
+function love.textinput(t)
+	suit.textinput(t)
+end
+
+function love.keypressed(key)
+	suit.keypressed(key)
 end
 
 return ap
