@@ -23,4 +23,5 @@ end
 function love.resize(width, height)
 	CScreen.update(width, height)
 end
+
 return ap
